@@ -8,6 +8,7 @@ import os
 import base64
 import time
 import plotly.graph_objects as go
+import torch
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
